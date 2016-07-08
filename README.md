@@ -1,5 +1,7 @@
 #Ultracortex Mark IV
-*Development Period: April 2016 - ...
+
+*Development Period: April 2016 - ...*
+
 **need a new image here**
 
 ![image](../assets/ultracortex-nova-images/m3_upgrade_1000.jpg)
