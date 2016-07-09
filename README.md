@@ -21,7 +21,7 @@ Designers & Engineers:
 **Note:** the part quantities listed below assume you are making an electrode holder for all 21 nodes of the Ultracortex Mark 4. In reality, you will likely have only 8 or 16 electrodes, depending on whether you are working with the [OpenBCI 32bit Board](http://openbci.myshopify.com/collections/frontpage/products/openbci-32-bit-board-kit) (8 channels) or the [OpenBCI 16-channel R&D Kit](http://openbci.myshopify.com/collections/frontpage/products/openbci-16-channel-r-d-kit) (16 channels). You may only want to create as many electrode units as you have channels, and then add more as necessary. In general, more electrodes will distribute the downward scalp pressure, increasing comfort.
 
 ###3D-printed Parts:
-* **Were Gonna Need Some New Links For These Frames**
+* **Were Gonna Need Some New Links For The frame nodes and mech parts**
 * [FRAME](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_III_Nova/STLs/FRAME) (head circumference: small = 50-55cm, medium = 55-60cm, large = 60-65cm)
 	* FRAME_FRONT (**x1**) — .STLs ([small](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/FRAME/small/FRAME_FRONT_small.stl) / [medium](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/FRAME/medium/FRAME_FRONT_medium.stl) / [large](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/FRAME/large/FRAME_FRONT_large.stl))
 	* FRAME_BACK (**x1**) — .STLs ([small](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/FRAME/small/FRAME_BACK_small.stl) / [medium](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/FRAME/medium/FRAME_BACK_medium.stl) / [large](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/FRAME/large/FRAME_BACK_large.stl))
